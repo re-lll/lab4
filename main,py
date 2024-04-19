@@ -1,0 +1,5 @@
+import utils
+
+n = 5
+result = utils.factorial(n)
+print(f"factorial {n} is {result}")
